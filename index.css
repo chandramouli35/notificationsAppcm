@@ -1,0 +1,51 @@
+/* Write your code here. */
+
+.bg-container {
+  background-color: #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.card-container {
+  width: 700px;
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 0px 0px 10px;
+}
+.PrimaryContainer {
+  width: 300px;
+  color: #ffffff;
+  background-color: #0b69ff;
+  display: flex;
+  margin-bottom: 10px;
+}
+.successContainer {
+  width: 300px;
+  color: #ffffff;
+  background-color: #2dca73;
+  display: flex;
+  margin-bottom: 10px;
+}
+.warningContainer {
+  width: 300px;
+  color: #ffffff;
+  background-color: #ffb800;
+  display: flex;
+  margin-bottom: 10px;
+}
+.DangerContainer {
+  width: 300px;
+  color: #ffffff;
+  background-color: #ff0b37;
+  display: flex;
+  margin-bottom: 100px;
+}
+.icons {
+  height: 15px;
+  margin-top: 20px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
